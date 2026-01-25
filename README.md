@@ -69,11 +69,11 @@ Senior Full Stack Developer with **5+ years** of hands-on experience in architec
 
 <div align="center">
   
-![GitHub Stats for Arslan](https://github-readme-stats.vercel.app/api?username=arslan0026&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats for Arslan](https://github-readme-stats.vercel.app/api?username=iammuhammadarslan&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan0026&layout=compact&theme=radical&hide_border=true)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadarslan&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=arslan0026&theme=radical&hide_border=true)
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=iammuhammadarslan&theme=radical&hide_border=true)
 
 </div>
 
@@ -173,8 +173,8 @@ University of Gujrat | 2016 - 2020
 
 <div align="center">
   
-### ⭐️ From [arslan0026](https://github.com/arslan0026)
+### ⭐️ From [iammuhammadarslan](https://github.com/iammuhammadarslan)
 
-![Profile Views Counter](https://komarev.com/ghpvc/?username=arslan0026&color=brightgreen&style=flat-square)
+![Profile Views Counter](https://komarev.com/ghpvc/?username=iammuhammadarslan&color=brightgreen&style=flat-square)
 
 </div>
