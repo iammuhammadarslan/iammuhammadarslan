@@ -78,6 +78,11 @@ Senior Full Stack Developer with **5+ years** of hands-on experience in architec
 </div>
 
 ---
+ ## 🏆 GitHub Profile Trophy
+ 
+![](https://github-profile-trophy-silk-six.vercel.app/?username=iamsaadMehmood&column=8&theme=darkhub&no-frame=true&no-bg=true)
+
+
 
 ## 💼 Professional Experience
 
