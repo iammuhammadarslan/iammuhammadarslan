@@ -70,18 +70,13 @@ I focus on turning product ideas into reliable, production-ready software with s
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iammuhammadarslan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadarslan&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=iammuhammadarslan&theme=radical&hide_border=true" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammuhammadarslan&theme=radical" />
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammuhammadarslan&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammuhammadarslan&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammuhammadarslan&theme=radical" />
 </div>
 
 ---
