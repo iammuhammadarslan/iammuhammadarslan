@@ -1,17 +1,17 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Arslan 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Muhammad+Arslan+%F0%9F%91%8B;Senior+Full+Stack+Developer;Cloud+Architect;React+%2F+Next.js+%2F+Node.js+%2F+AWS+%2F+Kubernetes" alt="Typing SVG" />
 
-### Senior Full Stack Developer • Cloud Architect • MERN / Next.js / AWS / Kubernetes
+### Building scalable web products and cloud-native systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadarslan0026/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadarslan0026@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammadarslan.codes)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923406146195)
 
-![Profile Views](https://komarev.com/ghpvc/?username=iammuhammadarslan&label=Profile%20views&color=brightgreen&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/iammuhammadarslan?style=flat-square&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/iammuhammadarslan?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=iammuhammadarslan&label=Profile%20views&color=22c55e&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/iammuhammadarslan?style=flat-square&color=3b82f6)
+![GitHub User's stars](https://img.shields.io/github/stars/iammuhammadarslan?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=eab308)
 
 </div>
 
@@ -19,16 +19,16 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack Developer** with **5+ years of experience** building scalable, high-performance web applications and cloud-native systems. I specialize in **React.js**, **Next.js**, **Node.js**, **Laravel**, **AWS**, **Docker**, and **Kubernetes**.
+I'm a **Senior Full Stack Developer** with **5+ years of experience** building scalable, high-performance applications across web and cloud platforms. I specialize in **React.js**, **Next.js**, **Node.js**, **Laravel**, **AWS**, **Docker**, and **Kubernetes**.
 
-I enjoy turning business ideas into reliable digital products, optimizing performance, and designing systems that are clean, scalable, and production-ready.
+I focus on turning product ideas into reliable, production-ready software with strong performance, clean architecture, and a great user experience.
 
-### Highlights
-- Built and maintained scalable products using the **MERN stack** and **Next.js**
-- Designed backend systems and REST APIs for high-traffic applications
-- Managed deployments and infrastructure across **AWS**, **Docker**, and **Kubernetes**
-- Improved delivery speed and engineering efficiency through **CI/CD automation**
-- Strong focus on performance, maintainability, and user experience
+### Quick Highlights
+- Built and scaled products using the **MERN stack** and **Next.js**
+- Designed backend architectures and **REST APIs** for high-traffic platforms
+- Managed production infrastructure on **AWS**, **Docker**, and **Kubernetes**
+- Improved engineering velocity with **CI/CD automation**
+- Passionate about performance, maintainability, and business impact
 
 ---
 
