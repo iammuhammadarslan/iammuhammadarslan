@@ -11,7 +11,7 @@
 
 ### 💼 Professional Summary
 
-Senior Full Stack Developer with **5+ years** of hands-on experience in architectural design and deployment of high-performance web applications. I specialize in the **MERN Stack (MongoDB, Express, React, Node.js)** and **Cloud Computing**.
+Senior Full Stack Developer with **5+ years** of hands-on experience in architectural design and deployment of high-performance web applications. I specialize in the **MERN Stack (MongoDB, Express.js, React, Node.js)**, while also delivering production-grade solutions with **Next.js, Laravel, AWS, Docker, and Kubernetes**.
 
 **Core Competencies:**
 - 🔹 **Frontend Excellence:** Advanced React.js, Next.js, and modern UI/UX principles.
@@ -68,21 +68,24 @@ Senior Full Stack Developer with **5+ years** of hands-on experience in architec
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats for Arslan](https://github-readme-stats.vercel.app/api?username=iammuhammadarslan&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadarslan&layout=compact&theme=radical&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iammuhammadarslan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadarslan&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=iammuhammadarslan&theme=radical&hide_border=true)
+<img height="170" src="https://streak-stats.demolab.com?user=iammuhammadarslan&theme=radical&hide_border=true" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammuhammadarslan&theme=radical" />
 
 </div>
 
 ---
- ## 🏆 GitHub Profile Trophy
- 
-![](https://github-profile-trophy-silk-six.vercel.app/?username=iammuhammadarslan&column=8&theme=darkhub&no-frame=true&no-bg=true)
 
+## 🏆 GitHub Profile Trophy
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iammuhammadarslan&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+</div>
+
+---
 
 ## 💼 Professional Experience
 
@@ -90,8 +93,8 @@ Senior Full Stack Developer with **5+ years** of hands-on experience in architec
 *May 2025 - Present | Remote*
 - Architecting cloud-native microservices using **Node.js**, **React**, and **MongoDB**.
 - Orchestrating **Kubernetes** clusters for high-availability application deployment.
-- implementing **CI/CD pipelines** and managing **AWS services** (EC2, S3, Lambda).
-- Reduced deployment efficiency by **30%** through automation.
+- Implementing **CI/CD pipelines** and managing **AWS services** (EC2, S3, Lambda).
+- Improved deployment efficiency by **30%** through automation.
 
 ### 🔹 **Full Stack Developer** | ArhamSoft (Pvt) Ltd
 *Apr 2022 - May 2025 | Lahore, Pakistan*
@@ -177,9 +180,11 @@ University of Gujrat | 2016 - 2020
 ---
 
 <div align="center">
-  
+
 ### ⭐️ From [iammuhammadarslan](https://github.com/iammuhammadarslan)
 
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=iammuhammadarslan&color=brightgreen&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/iammuhammadarslan?style=flat-square&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/iammuhammadarslan?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow)
 
 </div>
