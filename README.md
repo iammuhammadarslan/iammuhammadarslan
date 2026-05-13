@@ -86,6 +86,14 @@ I focus on turning product ideas into reliable, production-ready software with s
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iammuhammadarslan/iammuhammadarslan/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
